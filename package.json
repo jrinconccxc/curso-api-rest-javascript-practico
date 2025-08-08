@@ -1,0 +1,20 @@
+{
+  "name": "curso-de-api-rest-con-javascript---ejemplos-con-apis-reales",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/jrinconccxc/curso-api-rest-javascript-practico#readme",
+  "bugs": {
+    "url": "https://github.com/jrinconccxc/curso-api-rest-javascript-practico/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrinconccxc/curso-api-rest-javascript-practico.git"
+  },
+  "license": "MIT",
+  "author": "Johan Rincon",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
