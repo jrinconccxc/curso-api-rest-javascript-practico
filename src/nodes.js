@@ -5,12 +5,17 @@ const domHtmlElements = {
     categoriesPreviewSection: document.getElementById('categoriesPreview'),
     genericListSection: document.getElementById('genericList'),
     movieDetailSection: document.getElementById('movieDetail'),
+    likedMoviesSection: document.getElementById('liked'),
+
+
     // List & Container
     searchForm: document.getElementById('searchForm'),
     trendingPreviewMovieList: document.querySelector('.trendingPreview-movieList'),
     categoriesPreviewList: document.querySelector('.categoriesPreview-list'),
     movieDetailCategoriesList: document.querySelector('#movieDetail .categories-list'),
     relatedMoviesContainer: document.querySelector('.relatedMovies-scrollContainer'),
+    likedMoviesListArticle: document.querySelector('.liked-movieList'),
+
 
     // Elements
     headerTitle: document.querySelector('.header-title'),

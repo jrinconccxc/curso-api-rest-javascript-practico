@@ -138,5 +138,5 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 
-# Api-key.js (SECRETS)
-src/api-key.js
+# # Api-key.js (SECRETS)
+# src/api-key.js
